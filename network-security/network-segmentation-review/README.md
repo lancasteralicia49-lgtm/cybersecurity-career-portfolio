@@ -1,5 +1,8 @@
 # SIMULATION — Network Segmentation & Security Review
 
+![Network Segmentation Diagram](./network-segmentation-diagram1.png)
+*SIMULATION — VLAN segmentation, router-on-a-stick, ACLs, and least-privilege network design.*
+
 **Date:** September 15, 2026  
 **Role:** Junior Network Security Analyst — Co-op *(Simulation)*  
 **Environment:** Southwestern Ontario Technology & Security Services (SOTS) *(Fictional)*  
